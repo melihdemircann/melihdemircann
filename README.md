@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Melih Demircan</h1>
 <h3 align="center">I am a second year student at Kütahya Dumlupınar University Computer Engineering. I am improving myself in the fields of artificial intelligence, cyber security, mobile games and application programming.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=melihdemircann&label=Profile%20views&color=0e75b6&style=flat" alt="melihdemircann" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melihdemircann" alt="melihdemircann" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **melihdemircan174@gmail.com**
 
