@@ -1,4 +1,4 @@
-[![MasterHead](https://hizliresim.com/db1fj1k)
+[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHU4bW9uNjBiY3M4NDh6M3Q1NHc0b3M3cW5od2dzOGI3enczODA3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vQX4tXkLa1PTZ2U/giphy.gif)
 <h1 align="center">Hi 👋, I'm Melih Demircan</h1>
 <h3 align="center">I am a 3rd year Computer Engineering student at Kütahya Dumlupınar University. I focus on developing myself in artificial intelligence, Internet of Things (IoT), and mobile application development. In today's rapidly evolving technological landscape, I aim to create innovative projects and solutions while gaining hands-on experience through various projects. I continuously strive to stay current in both my academic career and personal development. My passion for learning and research drives me to keep up with the latest technologies in the software world and apply this knowledge to my projects.</h3>
 
