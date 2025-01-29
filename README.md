@@ -1,5 +1,6 @@
-[![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnF0dTdodmgwdnp1bWk0Ymp1Y2hhOHFqajhzbDM4Zmh3eXZ5bGpqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72ETUTmgPg8eAVZm/giphy.gif)
-
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnF0dTdodmgwdnp1bWk0Ymp1Y2hhOHFqajhzbDM4Zmh3eXZ5bGpqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72ETUTmgPg8eAVZm/giphy.gif" />
+</div>
 <h1 align="center">Hi 👋, I'm Melih Demircan</h1>
 <h3 align="center">I am a 3rd year Computer Engineering student at Kütahya Dumlupınar University. I focus on developing myself in artificial intelligence, Internet of Things (IoT), and mobile application development. In today's rapidly evolving technological landscape, I aim to create innovative projects and solutions while gaining hands-on experience through various projects. I continuously strive to stay current in both my academic career and personal development. My passion for learning and research drives me to keep up with the latest technologies in the software world and apply this knowledge to my projects.</h3>
 
