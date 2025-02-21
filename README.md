@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://melihdemircann.github.io/my-site/](https://melihdemircann.github.io/my-site/)
 
-- 📫 How to reach me **melihdemircan174@gmail.com**
+- 📫 How to reach me **melihdemircan14@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
