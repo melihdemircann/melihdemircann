@@ -177,8 +177,6 @@ Collaboration and information-sharing platform with a **token-based incentive sy
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=melihdemircann&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=melihdemircann&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
-
 </div>
 
 <br/>
