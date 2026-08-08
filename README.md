@@ -1,94 +1,217 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/4WSTSdQZXwME0/giphy.gif?cid=ecf05e47v5dnncotfwj0n4bfvtp4u9wuvgdxj0461g7nc1r9&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Melih%20Demircan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Bioinformatics%20%7C%20Systems%20Programming%20%7C%20Mobile&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+GenoVis+-+DNA+to+3D+Human;Writing+an+OS+from+scratch+in+Rust;Founder+%40+Marsias;AI+Education+Coordinator+%40+Anticverse;Always+learning+something+new;&font=Fira%20Code&center=true&width=560&height=50&color=58A6FF&vCenter=true&size=24&pause=1200" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=melihdemircann&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/melihdemircann?label=Followers&style=for-the-badge&color=58A6FF" alt="followers"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/melihdemircann&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=58A6FF" alt="repos"/>
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Melih Demircan</h1>
-<h3 align="center">4th year Computer Engineering student at Kütahya Dumlupınar University, building at the intersection of AI, bioinformatics, systems programming and mobile development. Founder of <a href="https://github.com/melihdemircann">Marsias</a>, and Education Coordinator for the AI School at Anticverse. I like projects that force me to learn a new domain from scratch — genomics, OS internals, quantum crypto, IoT — and turn it into something that actually runs.</h3>
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melihdemircann&label=Profile%20views&color=0e75b6&style=flat" alt="melihdemircann" /> </p>
+## 👋 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melihdemircann" alt="melihdemircann" /></a> </p>
+I'm a **4th year Computer Engineering student** at **Kütahya Dumlupınar University**, building at the intersection of **AI, bioinformatics, systems programming, IoT and mobile development**. I like picking projects that force me to learn an entirely new domain from zero — genomics, OS internals, quantum cryptography — and shipping something that actually runs.
 
-- 👨‍💻 All of my projects are available at [melihdemircann.github.io/my-site](https://melihdemircann.github.io/my-site/)
-- 🎓 Final-year thesis: **GenoVis** — an AI + bioinformatics system that predicts phenotypic traits from DNA and generates realistic 3D human models
-- 🛠️ Currently building **Klyrix Vantage**, a compliance/hardening automation platform for network security devices
-- 🚀 Founder of **Marsias**, publishing mobile apps on Google Play
-- 🌱 Currently in the National Technology Academy's (Milli Teknoloji Akademisi) Chip Design Specialization Program
-- 📫 How to reach me: **melihdemircan14@gmail.com**
+```yaml
+role: "Founder @ Marsias  •  AI Education Coordinator @ Anticverse"
+focus: ["Artificial Intelligence", "Bioinformatics", "Systems Programming", "Mobile Dev"]
+currently_building: ["Klyrix Vantage", "Birge", "Procedural Face Generation (Blender)"]
+currently_learning: "Chip Design — Milli Teknoloji Akademisi"
+contact: "melihdemircan14@gmail.com"
+```
 
-### Featured Projects
+- 🎓 Final-year thesis: **GenoVis** — predicts phenotypic traits from raw DNA and generates a matching realistic 3D human model
+- 🚀 Founder of **[Marsias](https://play.google.com/store)**, publishing mobile apps on Google Play
+- 🌱 Volunteer **AI Education Coordinator** at Anticverse (Yapay Zeka Ekolü)
+- 🛡️ Currently building **Klyrix Vantage**, an automated compliance & hardening platform for network security devices
+- 🔬 In the **National Technology Academy's Chip Design Specialization Program** (T.C. Sanayi ve Teknoloji Bakanlığı)
+- 💬 Ask me about: Rust systems programming, bioinformatics pipelines, Flutter, or automation with n8n
+- 📫 Reach me at **melihdemircan14@gmail.com**
 
-🖥️ **[Operating System for Game Console (Rust)](https://github.com/melihdemircann)**
-Custom OS built from scratch in Rust, targeting QEMU via UEFI — including a mouse driver using the UEFI Pointer protocol, fixed-point arithmetic conversions and handle caching, with a focus on memory safety and concurrency.
+<br/>
 
-🧬 **GenoVis — DNA to 3D Human**
-AI-powered pipeline that extracts SNPs from VCF DNA data and predicts phenotypic traits using HIrisPlex-S and Polygenic Risk Scores (up to 82% accuracy), then procedurally generates a realistic 3D human model in Blender via msprime-based crossover modeling and the Blender Python API.
+## 🚀 Featured Projects
 
-🤖 **AI Sales Consultant (Autonomous System)**
-Container-based automation system combining WhatsApp Cloud API, n8n, Google Gemini and PostgreSQL (Supabase) to handle customer interaction and appointment scheduling with zero human intervention.
+<div align="center">
 
-🔐 **Quantum Cryptography Simulation — BB84 Protocol**
-Simulated quantum key distribution in Python with Qiskit, including eavesdropping detection and secure key exchange.
+<table>
+<tr>
+<td width="50%">
 
-👁️ **Real-Time Object Detection (YOLOv5)**
-Real-time computer vision app with an optimized inference pipeline.
+### 🖥️ [OS for Game Console (Rust)](https://github.com/melihdemircann)
+Custom operating system built from scratch in **Rust**, targeting **QEMU via UEFI** — including a mouse driver using the UEFI Pointer protocol, fixed-point arithmetic and handle caching. Focused on memory safety and concurrency.
 
-📱 **Spanish Atlas**
-Cross-platform Flutter app for beginner-level Spanish learning on iOS and Android.
+`Rust` `UEFI` `QEMU` `Systems`
 
-📰 **BBC News Topic Modeling (LDA & NMF)**
-Text preprocessing, vectorization and topic modeling with visualization of topic distributions.
+</td>
+<td width="50%">
 
-🐾 **Cat Litter Monitoring System (IoT)**
-ESP8266 + MQ135 gas sensor setup for environmental data collection and monitoring.
+### 🧬 GenoVis — DNA to 3D Human
+AI pipeline that extracts SNPs from VCF DNA data and predicts phenotypic traits with **HIrisPlex-S** and **Polygenic Risk Scores** (up to 82% accuracy), then procedurally builds a realistic 3D human in **Blender**.
 
-🤝 **SkillFlow**
-Collaboration and information-sharing platform with a token-based incentive system.
+`Python` `Bioinformatics` `Blender API` `Deep Learning`
 
-### Currently building
-- **Klyrix Vantage** — automated compliance checks (DISA STIG, CIS Benchmarks, NIST 800-53) for network/security devices like Palo Alto, FortiGate, Cisco ASA/FTD and F5, with bilingual (TR/EN) query support and an air-gapped local-LLM mode.
-- **Birge** — a Flutter + Supabase social platform connecting the Turkic world with automatic translation between Turkic languages.
-- A Blender Python script for procedurally generating ultra-realistic human faces.
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/melihdemircann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melihdemircann" height="30" width="40" /></a>
-<a href="https://medium.com/@melih.demircan00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@melih.demircan00" height="30" width="40" /></a>
-</p>
+### 🤖 AI Sales Consultant
+Container-based automation combining **WhatsApp Cloud API**, **n8n**, **Google Gemini** and **PostgreSQL (Supabase)** to fully automate customer interaction and appointment scheduling.
 
-### Languages, Tools & Technologies
+`n8n` `Gemini` `Supabase` `Automation`
+
+</td>
+<td width="50%">
+
+### 🔐 Quantum Cryptography — BB84
+Simulated quantum key distribution in **Python** with **Qiskit**, including eavesdropping detection and secure key exchange mechanisms.
+
+`Python` `Qiskit` `Quantum Computing`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 👁️ Real-Time Object Detection
+Computer vision app for real-time detection using **YOLOv5**, with an optimized inference pipeline.
+
+`Python` `YOLOv5` `OpenCV`
+
+</td>
+<td width="50%">
+
+### 📱 Spanish Atlas
+Cross-platform **Flutter** app for beginner-level Spanish learning, on iOS and Android.
+
+`Flutter` `Dart` `Mobile`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📰 BBC News Topic Modeling
+Text preprocessing, vectorization and topic modeling with **LDA** and **NMF**, with visualized topic distributions.
+
+`Python` `NLP` `LDA/NMF`
+
+</td>
+<td width="50%">
+
+### 🐾 Cat Litter Monitoring (IoT)
+**ESP8266** + **MQ135** gas sensor system for environmental data collection and monitoring.
+
+`IoT` `ESP8266` `Sensors`
+
+</td>
+</tr>
+</table>
+
+### 🤝 SkillFlow — Cooperation Platform
+Collaboration and information-sharing platform with a **token-based incentive system**.
+
+</div>
+
+<br/>
+
+## 🛠️ Currently Building
+
+| Project | Description |
+|---|---|
+| **Klyrix Vantage** | Automated compliance checks (DISA STIG, CIS Benchmarks, NIST 800-53) for Palo Alto, FortiGate, Cisco ASA/FTD, F5 — bilingual TR/EN, with an air-gapped local-LLM mode |
+| **Birge** | Flutter + Supabase social platform connecting the Turkic world, with automatic translation between Turkic languages |
+| **Procedural Face Generation** | Blender Python script for generating ultra-realistic human faces |
+
+<br/>
+
+## 🧰 Languages & Tools
+
+<div align="center">
 
 **Programming Languages**
-Python (Intermediate) • Rust (Intermediate) • C++ (Intermediate) • C (Intermediate) • Dart (Intermediate) • C# (Beginner)
 
-**Technologies & Tools**
-Flutter • Unity • Android Studio • Linux • PostgreSQL • SQL Server • n8n • WhatsApp Cloud API • Qiskit • YOLOv5 • OpenCV • Firebase • Figma • Vuforia • Git
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Intermediate-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-Intermediate-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-Intermediate-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Beginner-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-<p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-</p>
+**Frameworks, Platforms & Tools**
 
-### GitHub Stats
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melihdemircann&show_icons=true&locale=en&layout=compact" alt="melihdemircann" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melihdemircann&show_icons=true&locale=en" alt="melihdemircann" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melihdemircann&" alt="melihdemircann" /></p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=melihdemircann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihdemircann&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=melihdemircann&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=melihdemircann&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=melihdemircann&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/melihdemircann/melihdemircann/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+<sub>⚙️ Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — add the <code>snake.yml</code> GitHub Action to your profile repo to activate this.</sub>
+
+</div>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/melihdemircann" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://medium.com/@melih.demircan00" target="blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+<a href="mailto:melihdemircan14@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://melihdemircann.github.io/my-site/" target="blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
